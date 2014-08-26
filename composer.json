@@ -20,5 +20,6 @@
         "psr-4": {
             "Defr\\AresBundle\\": ""
         }
-    }
+    },
+    "minimum-stability": "dev"
 }
