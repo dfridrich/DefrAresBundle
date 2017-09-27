@@ -1,4 +1,4 @@
 services:
     defr_ares:
         class: 'Defr\AresBundle\Service\AresService'
-        arguments: [@kernel]
+        arguments: ["@kernel"]
